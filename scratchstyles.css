@@ -1,0 +1,78 @@
+body{
+    background-color: #f4ba69;
+    font-family: "PT Sans", sans-serif;
+}
+
+#DrewHead {
+    position:relative;
+    width: 20%;
+    max-width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#NamePic{
+    width: 30%;
+    max-width: 350px;
+    display: block;
+    margin-top: 1%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ScratchTitle {
+    text-align: center;
+    font-size: medium;
+}
+
+.PenguinLink {
+    color: #0743a4;
+    margin-bottom: 0%;
+    margin-left: 5%;
+}
+
+.LinkToPro {
+    color: #0743a4;
+    margin-bottom: 0%;
+    margin-left: 5%;
+}
+
+.List1{
+    color: black;
+    margin-top: -15px;
+    margin-left: 5%;
+}
+
+.List1Title {
+    color: #8d0811;
+    margin-bottom: 0%;
+    margin-left: 5%;
+}
+
+
+.sabotage {
+    margin-left: 50px;
+}
+
+.PenguinPicTitle {
+    color: #8d0811;
+    margin-bottom: 0%;
+    margin-left: 5%;
+}
+
+.TableauTitle {
+    color: #8d0811;
+    margin-bottom: 0%;
+    margin-left: 5%;
+}
+
+#Penguin {
+    width: 30%;
+}
+
+.tableauPlaceholder {
+    margin-left: 5%;
+    margin-top: 5%;
+
+}
